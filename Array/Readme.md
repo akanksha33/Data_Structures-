@@ -6,3 +6,4 @@ Array.cpp consists of followiing functions:-
 - Binary search</br>
 - Bubble Sort</br>
 - Insertion Sort</br>
+- Selection Sort</br>
