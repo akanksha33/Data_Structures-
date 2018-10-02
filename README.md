@@ -1,1 +1,5 @@
-# Data_Structures-
+Data Structures</br>
+- Array</br>
+- Linked List</br>
+- Stack</br>
+- Queue</br>
