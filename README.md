@@ -3,3 +3,4 @@ Data Structures</br>
 - Linked List</br>
 - Stack</br>
 - Queue</br>
+- Trees</br>
